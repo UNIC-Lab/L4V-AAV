@@ -118,7 +118,7 @@ bibtex
 @article{wang2024learn,
   title={Learn for Variation: Variationally Guided AAV Trajectory Learning in Differentiable Environments},
   author={Wang, Xiucheng and Chen, Zhenye and Cheng, Nan},
-  journal={arXiv preprint arXiv:xxxx.xxxxx},
+  journal={arXiv preprint arXiv:2603.18853},
   year={2026}
 }
 ```
