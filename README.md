@@ -158,9 +158,9 @@ distribution.
 If you use this code or find our work helpful, please cite:
 ```
 bibtex
-@article{wang2024learn,
+@article{wang2026l4v,
   title={Learn for Variation: Efficient AAV Trajectory Learning through a Differentiable Wireless World Model},
-  author={Wang, Xiucheng and Chen, Zhenye and Cheng, Nan},
+  author={Xiucheng Wang, Zhenye Chen, Nan Cheng, Zhisheng Yin, Xuemin Shen},
   journal={arXiv preprint arXiv:2603.18853},
   year={2026}
 }
