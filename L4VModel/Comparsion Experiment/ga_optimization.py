@@ -306,8 +306,7 @@ def ga_optimize(num_users, area_size, h_unit, sigma, max_step, time_step_duratio
     # 注册遗传操作
     toolbox.register("mate", cxTwoPointVector, max_step_size=max_step)
     toolbox.register("mutate", mutate_individual_improved, indpb=0.1, max_step_size=max_step)
-    toolbox.register("select", tool
-    s.selTournament, tournsize=5)
+    toolbox.register("select", tools.selTournament, tournsize=5)
 
     # 创建初始种群
     pop = toolbox.population(n=population_size)

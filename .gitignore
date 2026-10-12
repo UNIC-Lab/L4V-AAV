@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Generated experiment artifacts
+results_round2/
+results_extended/
+paper_assets/
+*.log
+*.pt
+*.pth
+*.npz
+
+# Generated plots and local manuscript artifacts
+*.pdf
+*.png
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

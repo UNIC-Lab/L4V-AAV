@@ -179,7 +179,7 @@ def print_results(results):
 
 # 主函数
 def main():
-    print("Starting UAV Trajectory Optimization Experiments")
+    print("Starting AAV Trajectory Optimization Experiments")
     print("This may take a while...")
 
     # 运行实验

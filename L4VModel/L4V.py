@@ -300,8 +300,8 @@ traj_xy = np.asarray(traj_xy)  # 形状 [T+1, 2]
 # —— 最后一次运行的轨迹可视化（修正版） —— #
 plt.figure(figsize=(7, 7))
 
-# UAV 连续路径
-plt.plot(traj_xy[:, 0], traj_xy[:, 1], '-', linewidth=2, alpha=0.9, label='UAV path')
+# AAV 连续路径
+plt.plot(traj_xy[:, 0], traj_xy[:, 1], '-', linewidth=2, alpha=0.9, label='AAV path')
 
 # 方向箭头（抽样画，避免太密）
 dirs = np.diff(traj_xy, axis=0)
