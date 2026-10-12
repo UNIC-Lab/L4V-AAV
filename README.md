@@ -4,7 +4,7 @@
 
 This repository contains the complete implementation of $L4V$ and the experimental code used in the paper:
 
-> Xiucheng Wang, Zhenye Chen, Nan Cheng. *Learn for Variation: Efficient AAV Trajectory Learning through a Differentiable Wireless World Model*.
+> Xiucheng Wang, Zhenye Chen, Nan Cheng, Zhisheng Yin, Xuemin Shen. *Learn for Variation: Efficient AAV Trajectory Learning through a Differentiable Wireless World Model*.
 >
 > [arXiv link of the paper](https://arxiv.org/abs/2603.18853)
 
